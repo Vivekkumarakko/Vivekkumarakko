@@ -47,7 +47,7 @@ I'm a passionate cybersecurity and software development professional with hands-
 ## 🎓 Education & Certifications
 
 - **B.Tech in Computer Science & Engineering** (Cyber Security & Forensics) - Sharda University (2023-2027)
-- **Certifications**: Cisco Introduction to Cybersecurity, Ethical Hacking, Foundation of Ethical Hacking (Udacity), IT Governance & Risk (GISA Council)
+- **Certifications**: Cisco Introduction to Cybersecurity, Ethical Hacking,, IT Governance & Risk (GISA Council)
 - **Online Learning**: Advanced coursework in threat intelligence, network security, incident response
 
 ---
