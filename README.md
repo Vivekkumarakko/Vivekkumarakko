@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Vivek Kumar
 
-**Cybersecurity & Software Development Professional** | **B.Tech (CSE - Cyber Security & Forensics) Student** | **DFIR Specialist**
+**Cybersecurity & Software Development Professional** | **B.Tech (CSE - Cyber Security & Forensics) Student** 
 
 ---
 
@@ -19,8 +19,7 @@ I'm a passionate cybersecurity and software development professional with hands-
 
 ## 🏆 Achievements & Recognition
 
-✅ **Top Performer in DFIR** - Ranked in Top 20 of 5,000+ participants (IIMT College Internship)  
-  
+✅ **Top Performer in DFIR** - Ranked in Top 20 of 5,000+ participants (FCRFInternship)
 ✅ **Global Mentorship Program 2024-25** - AgileVirgin (Microsoft Power BI & Data Visualization)  
 ✅ **Active Community Contributor** - THM Delhi Hackers, Security BSides Noida, Reskilll CyberSec Meetup  
 ✅ **IFIP WG 11.9 Digital Forensics Conference** - Invited attendee  
